@@ -1,0 +1,17 @@
+la température dans la cuisine?,
+La température dans la cuisine est maintenant de 36,5 degrés.
+
+la Température dans le salon ?,
+La Température à le salon est 30 degre maintenant il y'a un augmentation a la consomation de l'energie .
+
+la Température dans mon voiture ?,
+La Température dans votre voiture est 16 degré maintenant il y a un augmentation a la consommation de gasoil pendant cette semaine .
+
+votre nom?,
+Je m'appelle DamDamou!.
+
+habite ou?,
+Faculté de science bizerte
+
+
+
